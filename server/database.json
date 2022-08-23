@@ -1,0 +1,165 @@
+{
+    "products": [
+		{
+			"id": 0,
+			"name": "Raqueta",
+			"description": "Raqueta deportiva marca STEP",
+			"price": "50.00",
+			"imageUrl":"https://picsum.photos/400?random=0",
+			"quantity": "7"
+		},
+		{
+			"id": 1,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=1",
+			"quantity": "12"
+		},
+		{
+			"id": 2,
+			"name": "Guantes",
+			"description": "Guante de Boxeo",
+			"price": "15.00",
+			"imageUrl":"https://picsum.photos/400?random=2",
+			"quantity": "14"
+		},
+		{
+			"id": 3,
+			"name": "Gafas acuáticas",
+			"description": "Gafas de buceo",
+			"price": "20.00",
+			"imageUrl":"https://picsum.photos/400?random=3",
+			"quantity": "4"
+		},
+		{
+			"id": 4,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=4",
+			"quantity": "12"
+		},
+		{
+			"id": 5,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=5",
+			"quantity": "12"
+		},
+		{
+			"id": 6,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=6",
+			"quantity": "12"
+		},
+		{
+			"id": 7,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=7",
+			"quantity": "12"
+		},{
+			"id": 8,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=8",
+			"quantity": "12"
+		},
+		{
+			"id": 9,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=9",
+			"quantity": "12"
+		},
+		{
+			"id": 10,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=10",
+			"quantity": "12"
+		},
+		{
+			"id": 11,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=11",
+			"quantity": "12"
+		},
+		{
+			"id": 12,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=12",
+			"quantity": "12"
+		},
+		{
+			"id": 13,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=13",
+			"quantity": "12"
+		},
+		{
+			"id": 14,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=14",
+			"quantity": "12"
+		},
+		{
+			"id": 15,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=15",
+			"quantity": "12"
+		},
+		{
+			"id": 16,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=16",
+			"quantity": "12"
+		},
+		{
+			"id": 17,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=17",
+			"quantity": "12"
+		},
+		{
+			"id": 18,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=18",
+			"quantity": "12"
+		},
+		{
+			"id": 19,
+			"name": "Balón de fútbol",
+			"description": "Balón original",
+			"price": "95.00",
+			"imageUrl":"https://picsum.photos/400?random=19",
+			"quantity": "12"
+		}
+		
+    ]
+
+}
