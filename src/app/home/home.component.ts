@@ -12,6 +12,8 @@ import { ProductsService } from '../services/products.service';
 export class HomeComponent implements OnInit {
 
   products: Product[] = [];
+  page?: number;
+
   constructor(private productService : ProductsService) { }
 
   ngOnInit(): void {
@@ -30,6 +32,8 @@ export class HomeComponent implements OnInit {
     showConfirmButton: false,
     timer: 2000
   })
-}
+  }
+
+
 
 }
