@@ -1,20 +1,30 @@
-
 <div class="container mt-5">
   <div class="row">
     <div class="col-lg-3 col-12" *ngFor="let product of products">
-  <div class="card mb-3" style="max-width: 480px; height: 550px">
-    <div class="row g-0">
-      <div class="col-md-12">
-        <h5 class="card-name">{{product.name}}</h5>
-        <img src="{{product.imageUrl}}" class="img-fluid rounded-start" alt="...">
-          <div class="card-body">
-          <p class="card-price"><small class="text-muted">Precio: ${{product.price}}</small></p>
-          <p class="card-description">{{product.description}}</p>
-          <p class="card-quantity"><small class="text-muted">Cantidad: {{product.quantity}}</small></p>
-          <button type="button" class="btn btn-primary">Comprar</button>
+      <div class="card mb-3" style="max-width: 480px; height: 550px">
+        <div class="row g-0">
+          <div class="col-md-12">
+            <h5 class="card-name">{{ product.name }}</h5>
+            <img
+              src="{{ product.imageUrl }}"
+              class="img-fluid rounded-start"
+              alt="..."
+            />
+            <div class="card-body">
+              <p class="card-price">
+                <small class="text-muted">Precio: ${{ product.price }}</small>
+              </p>
+              <p class="card-description">{{ product.description }}</p>
+              <p class="card-quantity">
+                <small class="text-muted"
+                  >Cantidad: {{ product.quantity }}</small
+                >
+              </p>
+              <button type="button" class="btn btn-primary" (click)="articleAdded()">Comprar</button>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
-</div>
-</div>
 </div>
