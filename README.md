@@ -23,6 +23,9 @@ Por ende para la ejecucion de este servidor se requiere:
 En la Tienda se cuenta con los productos, los cuales tienen su id, nombre, descripción, precio y cantidad, además se le crea 
 un botón que simula el agregarlos al carrito de compras como se ve en la siguiente imagen:
 
+# Nota:
+- Las imagenes y los títulos son ilustrativos ya que se utilizan de manera random de la página recomendada en el reto
+
 ![image](https://user-images.githubusercontent.com/51167724/186485800-0590d843-bc22-45c5-875c-382c00d60cf9.png)
 
 
