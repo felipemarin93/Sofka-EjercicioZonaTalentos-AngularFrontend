@@ -26,7 +26,7 @@ export class HomeComponent implements OnInit {
 
   articleAdded(){
     Swal.fire({
-    position: 'center',
+    position: 'top-right',
     icon: 'success',
     title: 'El artículo se ha agregado al carrito de compras',
     showConfirmButton: false,
