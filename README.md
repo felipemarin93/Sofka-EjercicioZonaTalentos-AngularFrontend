@@ -3,11 +3,11 @@
 # Proyecto práctico para validación y mejoramiento de habilidades en Programación Frontend (Angular)
 
 Pre-requisitos:
-El desarrollo de este proyecto se centra en el uso del framework Angular, se sugiere trabajar con la versión 11+
-Instalar node.js en su última versión estable (recomendado: lts/gallium -> v16.17.0)
-Instalar npm en su última versión (actual: 8.11.0)
-Instalar Angular CLI
-Se utiliza  (Visual Studio Code).
+- El desarrollo de este proyecto se centra en el uso del framework Angular, se sugiere trabajar con la versión 11+
+- Instalar node.js en su última versión estable (recomendado: lts/gallium -> v16.17.0)
+- Instalar npm en su última versión (actual: 8.11.0)
+- Instalar Angular CLI
+- Se utiliza  (Visual Studio Code).
 
 Este front tiene un catálogo de una tienda digital la cual ofrece productos.
 Dichos artículos son obtenidos de una API Local usando Json Server.
