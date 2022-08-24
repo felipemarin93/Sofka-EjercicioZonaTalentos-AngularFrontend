@@ -14,10 +14,10 @@ Dichos artículos son obtenidos de una API Local usando Json Server.
 
 Por ende para la ejecucion de este servidor se requiere:
 
-instalar npm con el comando: npm install
-instalar el JSON server con: npm install --save json-server.
-luego iniciar el servidor con el comando : json-server --watch server/database.json
-por último ejecutar el servidor con: ng serve -o lo que abrirá un ventana en tu navegador con el front consumiendo dicha api.
+- instalar npm con el comando: npm install.
+- instalar el JSON server con: npm install --save json-server.
+- luego iniciar el servidor con el comando : json-server --watch server/database.json.
+- por último ejecutar el servidor con: ng serve -o lo que abrirá un ventana en tu navegador con el front consumiendo dicha api.
 
 
 En la Tienda se cuenta con los productos, los cuales tienen su id, nombre, descripción, precio y cantidad, además se le crea 
