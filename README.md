@@ -28,6 +28,7 @@ un botón que simula el agregarlos al carrito de compras como se ve en la siguie
 
 por último se agrega caracteristica responsiva para dispositivos móviles.
 
-![image](https://user-images.githubusercontent.com/51167724/186486095-d86b65d1-a843-4dde-84b3-ab96fc2dd1a6.png)
+![image](https://user-images.githubusercontent.com/51167724/186486567-271cb012-d8dd-4109-8b37-c6ae8f1abffa.png)
+
 
 autor: Daniel Felipe Marín
