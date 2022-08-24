@@ -1,27 +1,33 @@
-# Store
+# Reto Angular 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+# Proyecto práctico para validación y mejoramiento de habilidades en Programación Frontend (Angular)
 
-## Development server
+Pre-requisitos:
+El desarrollo de este proyecto se centra en el uso del framework Angular, se sugiere trabajar con la versión 11+
+Instalar node.js en su última versión estable (recomendado: lts/gallium -> v16.17.0)
+Instalar npm en su última versión (actual: 8.11.0)
+Instalar Angular CLI
+Se utiliza  (Visual Studio Code).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este front tiene un catálogo de una tienda digital la cual ofrece productos.
+Dichos artículos son obtenidos de una API Local usando Json Server.
 
-## Code scaffolding
+Por ende para la ejecucion de este servidor se requiere:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+instalar npm con el comando: npm install
+instalar el JSON server con: npm install --save json-server.
+luego iniciar el servidor con el comando : json-server --watch server/database.json
+por último ejecutar el servidor con: ng serve -o lo que abrirá un ventana en tu navegador con el front consumiendo dicha api.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+En la Tienda se cuenta con los productos, los cuales tienen su id, nombre, descripción, precio y cantidad, además se le crea 
+un botón que simula el agregarlos al carrito de compras como se ve en la siguiente imagen:
 
-## Running unit tests
+![image](https://user-images.githubusercontent.com/51167724/186485800-0590d843-bc22-45c5-875c-382c00d60cf9.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+por último se agrega caracteristica responsiva para dispositivos móviles.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![image](https://user-images.githubusercontent.com/51167724/186486095-d86b65d1-a843-4dde-84b3-ab96fc2dd1a6.png)
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+autor: Daniel Felipe Marín
