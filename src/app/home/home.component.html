@@ -3,15 +3,16 @@
     <div class="col-lg-3 col-12" *ngFor="
     let product of products
       | paginate: { itemsPerPage: 8, currentPage: page }">
-      <div class="card mb-3" style="max-width: 480px; height: 550px">
-        <div class="row g-0">
-          <div class="col-md-12">
+      <div class="card mb-3" style="max-width: 480px; height: 500px">
             <h5 class="card-name">{{ product.name }}</h5>
-            <img
+            <div>
+              <img
               src="{{ product.imageUrl }}"
               class="img-fluid rounded-start"
               alt="..."
+              style="width: 100%; height: 250px"
             />
+            </div>
             <div class="card-body">
               <p class="card-price">
                 <small class="text-muted">Precio: ${{ product.price }}</small>
@@ -25,8 +26,7 @@
               <button type="button" class="btn btn-primary" (click)="articleAdded()">Comprar</button>
             </div>
           </div>
-        </div>
-      </div>
+
     </div>
   </div>
   <footer class="footer">
